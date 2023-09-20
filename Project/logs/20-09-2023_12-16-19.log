@@ -1,0 +1,12 @@
+Sep 20, 2023 12:16:37 PM utils.Base openBrowser
+INFO: Browser Launched
+Sep 20, 2023 12:16:38 PM utils.Base openBrowser
+INFO: Browser Loaded the URL
+Sep 20, 2023 12:16:39 PM pages.homepage <init>
+INFO: 1234
+Sep 20, 2023 12:16:39 PM pages.homepage Valid_Login_TC
+INFO: qwert
+Sep 20, 2023 12:16:39 PM pages.homepage Valid_Login_TC
+INFO: Chrome
+Sep 20, 2023 12:16:45 PM runner.Testcase1 afterMethod
+INFO: Browser closed
